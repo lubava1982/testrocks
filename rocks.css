@@ -9,4 +9,8 @@
 	width: 600px;
 	background-color: black;
 	color:white;
+
+}
+#content img {
+	border: solid grey;
 }
