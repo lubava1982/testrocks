@@ -5,23 +5,24 @@
 }
 #content {
 	display: inline-block;
-	padding: 5px;
-	width: 600px;
+/*	padding: 3px;*/
+	width: 470px;
 	background-color: black;
 	color:white;
-	height: 450px;
+	height: 425px;
 
 }
 #content img {
 	border: solid grey;
-/*	padding:3px;*/
-	margin-left: 40px;
-	margin-top: 5px;
+/*	margin-left: 30px;*/
+	/*margin-top: 5px;
 	margin-bottom: 5px;
+	margin-right: 5px;*/
+
 }
 #content p {
-	margin-left: 20px;
+	margin-left: 5px;
 }
 #content h1 {
-	margin-left: 20px;
+	margin-left: 5px;
 }
